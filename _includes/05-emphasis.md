@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I have several attributes that are of note:
+  
+  *Cannabis industry experience*
+    
+    Worked for a well known cannabis brand.
+   **cash handling experience**
